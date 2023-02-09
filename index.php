@@ -428,7 +428,7 @@
 
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -519,7 +519,7 @@
                                                                     blanditiis ad.</p>
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -561,7 +561,7 @@
                                                                     blanditiis ad.</p>
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -717,7 +717,7 @@
                                                                 <div class="url">
                                                                     <span>url : </span><a
                                                                         href="https://reverent-torvalds-55f68e.netlify.app"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -762,7 +762,7 @@
                                                                     blanditiis ad.</p>
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -813,7 +813,7 @@
                                                                     blanditiis ad.</p>
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -856,7 +856,7 @@
                                                                     blanditiis ad.</p>
                                                                 <div class="url">
                                                                     <span>url : </span><a href="#"
-                                                                        target="_blank">www.example.com</a>
+                                                                        target="_blank">example</a>
                                                                 </div>
                                                             </div>
                                                         </div>
